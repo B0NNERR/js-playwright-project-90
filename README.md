@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/B0NNERR/js-playwright-project-90/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/B0NNERR/js-playwright-project-90/actions)
